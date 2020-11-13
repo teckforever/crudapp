@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/crudapp/static/css/main.8dd10a7a.chunk.css",
-    "main.js": "/crudapp/static/js/main.8b0547c8.chunk.js",
-    "main.js.map": "/crudapp/static/js/main.8b0547c8.chunk.js.map",
+    "main.js": "/crudapp/static/js/main.60e38a08.chunk.js",
+    "main.js.map": "/crudapp/static/js/main.60e38a08.chunk.js.map",
     "runtime-main.js": "/crudapp/static/js/runtime-main.95170bf1.js",
     "runtime-main.js.map": "/crudapp/static/js/runtime-main.95170bf1.js.map",
-    "static/js/2.ef98401c.chunk.js": "/crudapp/static/js/2.ef98401c.chunk.js",
-    "static/js/2.ef98401c.chunk.js.map": "/crudapp/static/js/2.ef98401c.chunk.js.map",
+    "static/js/2.e85efb0a.chunk.js": "/crudapp/static/js/2.e85efb0a.chunk.js",
+    "static/js/2.e85efb0a.chunk.js.map": "/crudapp/static/js/2.e85efb0a.chunk.js.map",
     "static/js/3.30413892.chunk.js": "/crudapp/static/js/3.30413892.chunk.js",
     "static/js/3.30413892.chunk.js.map": "/crudapp/static/js/3.30413892.chunk.js.map",
     "index.html": "/crudapp/index.html",
     "static/css/main.8dd10a7a.chunk.css.map": "/crudapp/static/css/main.8dd10a7a.chunk.css.map",
-    "static/js/2.ef98401c.chunk.js.LICENSE.txt": "/crudapp/static/js/2.ef98401c.chunk.js.LICENSE.txt"
+    "static/js/2.e85efb0a.chunk.js.LICENSE.txt": "/crudapp/static/js/2.e85efb0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.95170bf1.js",
-    "static/js/2.ef98401c.chunk.js",
+    "static/js/2.e85efb0a.chunk.js",
     "static/css/main.8dd10a7a.chunk.css",
-    "static/js/main.8b0547c8.chunk.js"
+    "static/js/main.60e38a08.chunk.js"
   ]
 }
